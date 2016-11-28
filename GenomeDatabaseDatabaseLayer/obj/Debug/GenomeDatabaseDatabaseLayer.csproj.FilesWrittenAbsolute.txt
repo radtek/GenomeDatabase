@@ -1,0 +1,6 @@
+/Users/saujanthapa/Desktop/INB306/GenomeDatabase/GenomeDatabaseDatabaseLayer/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/saujanthapa/Desktop/INB306/GenomeDatabase/GenomeDatabaseDatabaseLayer/bin/Debug/GenomeDatabaseDatabaseLayer.dll.mdb
+/Users/saujanthapa/Desktop/INB306/GenomeDatabase/GenomeDatabaseDatabaseLayer/bin/Debug/GenomeDatabaseDatabaseLayer.dll
+/Users/saujanthapa/Desktop/INB306/GenomeDatabase/GenomeDatabaseDatabaseLayer/obj/Debug/GenomeDatabaseDatabaseLayer.dll
+/Users/saujanthapa/Desktop/INB306/GenomeDatabase/GenomeDatabaseDatabaseLayer/obj/Debug/GenomeDatabaseDatabaseLayer.dll.mdb
+/Users/saujanthapa/Desktop/INB306/GenomeDatabase/GenomeDatabaseDatabaseLayer/bin/Debug/MySql.Data.dll

@@ -1,0 +1,5 @@
+/Users/saujanthapa/Desktop/INB306/GenomeDatabase/GenomeDatabaseFlatFileDownloader/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/saujanthapa/Desktop/INB306/GenomeDatabase/GenomeDatabaseFlatFileDownloader/bin/Debug/GenomeDatabaseFlatFileDownloader.exe.mdb
+/Users/saujanthapa/Desktop/INB306/GenomeDatabase/GenomeDatabaseFlatFileDownloader/bin/Debug/GenomeDatabaseFlatFileDownloader.exe
+/Users/saujanthapa/Desktop/INB306/GenomeDatabase/GenomeDatabaseFlatFileDownloader/obj/Debug/GenomeDatabaseFlatFileDownloader.exe
+/Users/saujanthapa/Desktop/INB306/GenomeDatabase/GenomeDatabaseFlatFileDownloader/obj/Debug/GenomeDatabaseFlatFileDownloader.exe.mdb
